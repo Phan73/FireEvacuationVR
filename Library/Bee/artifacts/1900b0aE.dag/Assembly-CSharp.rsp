@@ -1723,6 +1723,7 @@
 "Assets/Scripts/SetTurnTypeFromPlayerPref.cs"
 "Assets/Scripts/UIAudio.cs"
 "Assets/TeleportPlayer.cs"
+"Assets/TriangleCreator.cs"
 "Assets/Trigger.cs"
 "Assets/UnityTechnologies/ParticlePack/EffectExamples/Misc Effects/Scripts/SpawnEffect.cs"
 "Assets/UnityTechnologies/ParticlePack/Shared/Ramps/Runtime/RampAsset.cs"

@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Carlun\\FireEvacuationVR\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1FAE0170-95FB-7104-779C-BD55CCA359C8}|Assembly-CSharp.csproj|C:\\Users\\Carlun\\FireEvacuationVR\\assets\\trianglecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAE0170-95FB-7104-779C-BD55CCA359C8}|Assembly-CSharp.csproj|solutionrelative:assets\\trianglecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0552C790-38A8-814A-6FDC-9BDDF97D6285}|Assembly-CSharp-Editor.csproj|c:\\users\\carlun\\fireevacuationvr\\assets\\oculus\\vr\\editor\\ovrlint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0552C790-38A8-814A-6FDC-9BDDF97D6285}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\oculus\\vr\\editor\\ovrlint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAE0170-95FB-7104-779C-BD55CCA359C8}|Assembly-CSharp.csproj|C:\\Users\\Carlun\\FireEvacuationVR\\assets\\xrplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAE0170-95FB-7104-779C-BD55CCA359C8}|Assembly-CSharp.csproj|solutionrelative:assets\\xrplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1FAE0170-95FB-7104-779C-BD55CCA359C8}|Assembly-CSharp.csproj|C:\\Users\\Carlun\\FireEvacuationVR\\assets\\teleportplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FAE0170-95FB-7104-779C-BD55CCA359C8}|Assembly-CSharp.csproj|solutionrelative:assets\\teleportplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FAE0170-95FB-7104-779C-BD55CCA359C8}|Assembly-CSharp.csproj|c:\\users\\carlun\\fireevacuationvr\\assets\\trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FAE0170-95FB-7104-779C-BD55CCA359C8}|Assembly-CSharp.csproj|C:\\Users\\Carlun\\FireEvacuationVR\\assets\\trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FAE0170-95FB-7104-779C-BD55CCA359C8}|Assembly-CSharp.csproj|solutionrelative:assets\\trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,11 +46,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OVRLint.cs",
+              "DocumentMoniker": "C:\\Users\\Carlun\\FireEvacuationVR\\Assets\\Oculus\\VR\\Editor\\OVRLint.cs",
+              "RelativeDocumentMoniker": "Assets\\Oculus\\VR\\Editor\\OVRLint.cs",
+              "ToolTip": "C:\\Users\\Carlun\\FireEvacuationVR\\Assets\\Oculus\\VR\\Editor\\OVRLint.cs",
+              "RelativeToolTip": "Assets\\Oculus\\VR\\Editor\\OVRLint.cs",
+              "ViewState": "AQIAAPABAAAAAAAAAAAQwAcCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:53:30.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XRPlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Carlun\\FireEvacuationVR\\Assets\\XRPlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\XRPlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Carlun\\FireEvacuationVR\\Assets\\XRPlayerMovement.cs",
+              "RelativeToolTip": "Assets\\XRPlayerMovement.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAABQwCEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:51:36.558Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TriangleCreator.cs",
+              "DocumentMoniker": "C:\\Users\\Carlun\\FireEvacuationVR\\Assets\\TriangleCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\TriangleCreator.cs",
+              "ToolTip": "C:\\Users\\Carlun\\FireEvacuationVR\\Assets\\TriangleCreator.cs",
+              "RelativeToolTip": "Assets\\TriangleCreator.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:49:29.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TeleportPlayer.cs",
               "DocumentMoniker": "C:\\Users\\Carlun\\FireEvacuationVR\\Assets\\TeleportPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\TeleportPlayer.cs",
@@ -46,12 +96,11 @@
               "RelativeToolTip": "Assets\\TeleportPlayer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T04:08:50.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T04:08:50.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "InterfacePicker.cs",
               "DocumentMoniker": "C:\\Users\\Carlun\\FireEvacuationVR\\Assets\\Oculus\\Interaction\\Runtime\\ThirdParty\\InterfaceSupport\\Editor\\InterfacePicker.cs",
               "RelativeDocumentMoniker": "Assets\\Oculus\\Interaction\\Runtime\\ThirdParty\\InterfaceSupport\\Editor\\InterfacePicker.cs",
@@ -63,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\Carlun\\FireEvacuationVR\\Assets\\Oculus\\Voice\\Samples\\ShapesConduit\\Scripts\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Assets\\Oculus\\Voice\\Samples\\ShapesConduit\\Scripts\\AssemblyInfo.cs",
@@ -75,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "OVRPlugin.cs",
               "DocumentMoniker": "C:\\Users\\Carlun\\FireEvacuationVR\\Assets\\Oculus\\VR\\Scripts\\OVRPlugin.cs",
               "RelativeDocumentMoniker": "Assets\\Oculus\\VR\\Scripts\\OVRPlugin.cs",
@@ -87,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Trigger.cs",
               "DocumentMoniker": "C:\\Users\\Carlun\\FireEvacuationVR\\Assets\\Trigger.cs",
               "RelativeDocumentMoniker": "Assets\\Trigger.cs",
@@ -95,12 +144,11 @@
               "RelativeToolTip": "Assets\\Trigger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAQwA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T03:03:53.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T03:03:53.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ContinuousParticleOnCollision.cs",
               "DocumentMoniker": "C:\\Users\\Carlun\\FireEvacuationVR\\Assets\\ContinuousParticleOnCollision.cs",
               "RelativeDocumentMoniker": "Assets\\ContinuousParticleOnCollision.cs",

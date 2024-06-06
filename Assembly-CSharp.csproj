@@ -164,6 +164,7 @@
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRCursor.cs" />
     <Compile Include="Assets\Oculus\Voice\Lib\PlatformCompatibility\Scripts\Runtime\Utility\ArrayElementTitleAttribute.cs" />
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRDeserialize.cs" />
+    <Compile Include="Assets\TriangleCreator.cs" />
     <Compile Include="Assets\Oculus\Voice\Lib\Wit.ai\Features\TTS\Scripts\Runtime\Events\TTSSpeakerClipEvents.cs" />
     <Compile Include="Assets\Oculus\Interaction\OVRIntegration\Runtime\Scripts\Input\OVRButtonAxis1D.cs" />
     <Compile Include="Assets\Oculus\Platform\Scripts\VoipDtxState.cs" />

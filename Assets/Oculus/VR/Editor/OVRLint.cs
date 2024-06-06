@@ -506,12 +506,11 @@ public class OVRLint : EditorWindow
         var tier = UnityEngine.Rendering.GraphicsTier.Tier1;
         var tierSettings = UnityEditor.Rendering.EditorGraphicsSettings.GetTierSettings(target, tier);
 
-        if ((tierSettings.renderingPath == RenderingPath.DeferredShading ||
-             tierSettings.renderingPath == RenderingPath.DeferredLighting))
+        if (tierSettings.renderingPath == RenderingPath.DeferredShading)
         {
             AddFix(eRecordType.StaticCommon, "Optimize Rendering Path",
                 "For CPU performance, please do not use deferred shading.",
-                delegate(UnityEngine.Object obj, bool last, int selected)
+                delegate (UnityEngine.Object obj, bool last, int selected)
                 {
                     tierSettings.renderingPath = RenderingPath.Forward;
                     UnityEditor.Rendering.EditorGraphicsSettings.SetTierSettings(target, tier, tierSettings);
